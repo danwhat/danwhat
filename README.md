@@ -10,7 +10,6 @@ Sou estudante de programação e acredita que a tecnologia é o meio mais eficaz
 | Redux | SQL |
 | ReactJS | MongoDB |
 
-### Contato
 👨‍💼 [Linkedin](https://www.linkedin.com/in/danwhat/)
 📷 [Instagram](https://www.instagram.com/daanwhat/)
 ✉️ [Email](mailto:daanwhat@gmail.com)
