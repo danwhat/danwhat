@@ -2,7 +2,7 @@
 
 Sou estudante de programação e acredita que a tecnologia é o meio mais eficaz de gerar impactos positivos na vida das pessoas. Se você está lendo essas palavras provavelmente esta querendo saber um pouco sobre mim. 
 
-![enter image description here](https://wallpaperaccess.com/full/849790.gif =500x)
+![enter image description here](https://wallpaperaccess.com/full/849790.gif)
 
 Meu nome é Daniel, sou do Rio de Janeiro - RJ e trabalho como designer gráfico a  5 anos.
 Hoje, além de trabalhar, estudo programação na Trybe. Como ainda não defini em qual área quero me especializar, estudo de tudo um pouco e crio pequenos projetos para validar o que estou aprendendo.
